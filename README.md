@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Sahal Rahman .MT</h1>
-<h3 align="center">A passionate flutter developer from India</h3>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" align="center" style="width: 100%" />
+</div>
 
-" align="center" style="width: 100%" />
-</div>  
+
+<h1 align="center">Hi 👋, I'm Sahal Rahman .MT</h1>
+<h3 align="center">A passionate flutter developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahalrahman8055&label=Profile%20views&color=0e75b6&style=flat" alt="sahalrahman8055" /> </p>
 
